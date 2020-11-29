@@ -7,3 +7,7 @@ A navigation bar
 Main content
 Side content
 A footer
+
+2 coloumn layout 
+1) one column ia side 
+2) second coloumn  is main 
